@@ -1,4 +1,4 @@
-# forumproject
+# Supra-forum
 
 ## Project setup
 ```
