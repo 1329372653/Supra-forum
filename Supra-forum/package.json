@@ -32,7 +32,7 @@
     "less-loader": "^5.0.0",
     "lint-staged": "^9.4.2",
     "postcss-pxtorem": "^4.0.1",
-    "swiper": "^5.2.0",
+    "swiper": "^6.5.1",
     "vue-image-swipe": "^1.0.5",
     "vue-template-compiler": "^2.6.10"
   },
